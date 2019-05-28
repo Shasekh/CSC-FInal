@@ -34,6 +34,7 @@ $('document').ready(function(){
       $("#minutes").text(0);
       $("#seconds").text(0);
       clearTimeout(timer);
+      sec = 0;
     })
 
   }
